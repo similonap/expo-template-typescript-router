@@ -1,7 +1,7 @@
 {
   "name": "expo-template-typescript-router",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -45,5 +45,5 @@
     "react-test-renderer": "18.2.0",
     "typescript": "~5.3.3"
   },
-  "private": true
+  "private": false
 }
